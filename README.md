@@ -13,9 +13,9 @@ Aspiring Software Engineer, Financial Analyst.
 | [Dice Roller]() | A dice rolling simulator | Java |
 | [Project 2](link) | ... | ... |
 
-## 🌱 Currently Learning
+## Currently Learning
 Currently working on student dashboard application, with full stack development.
 
-## 📫 Contact
+## Contact
 - LinkedIn: https://www.linkedin.com/in/joseph-hegarty05/
 - Email: josephhegarty4@gmail.com
